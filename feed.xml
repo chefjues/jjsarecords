@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1_0.dtd">
+  <channel>
+    <title>JJSARecords</title>
+    <link>https://chefjues.github.io/jjsarecords/</link>
+    <description>Research topics narrated for the family.</description>
+    <language>en</language>
+    <itunes:author>JJSARecords</itunes:author>
+    <itunes:category text="Education"/>
+  </channel>
+</rss>
