@@ -7,5 +7,12 @@
     <language>en</language>
     <itunes:author>JJSARecords</itunes:author>
     <itunes:category text="Education"/>
+    <item>
+      <title>How Passkeys Work — requested by chefjues</title>
+      <description>A quick overview of passkeys: public-key cryptography, WebAuthn, FIDO2, and why they make passwords obsolete.</description>
+      <enclosure url="https://chefjues.github.io/jjsarecords/episodes/passkeys-overview.mp3" type="audio/mpeg"/>
+      <guid>https://chefjues.github.io/jjsarecords/episodes/passkeys-overview.mp3</guid>
+      <pubDate>Mon, 04 May 2026 13:21:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
