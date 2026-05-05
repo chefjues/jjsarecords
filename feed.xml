@@ -14,5 +14,12 @@
       <guid>https://chefjues.github.io/jjsarecords/episodes/passkeys-overview.mp3</guid>
       <pubDate>Mon, 04 May 2026 13:21:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Prompt Engineering Best Practices — requested by chefjues</title>
+      <description>A quick overview of the latest best practices for writing prompts in 2025: precision, few-shot, chain-of-thought, self-consistency, and why less is more with reasoning models.</description>
+      <enclosure url="https://chefjues.github.io/jjsarecords/episodes/prompt-engineering-best-practices.mp3" type="audio/mpeg"/>
+      <guid>https://chefjues.github.io/jjsarecords/episodes/prompt-engineering-best-practices.mp3</guid>
+      <pubDate>Tue, 05 May 2026 06:41:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
